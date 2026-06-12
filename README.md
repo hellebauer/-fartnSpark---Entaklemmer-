@@ -1,5 +1,7 @@
 Ohmpilot fuer finanziell Minderbemittelte. Schaltet Last an (Shelly) wenn genug PV Ueberschuss vorhanden ist. Funktioniert mit Fronius. Mit Arduino IDE auf ESP32 platform flashen. Ein AP wird unter 192.168.4.1 aufgemacht (password 12345678) . Verbinden, Wifi Kofiguration, Fronius IP, und Shelly IP eintragen. Schaltwerte eintragen. Fertig.
 
+----------------------------------------------
+Open-Source-Software ohne jegliche Gewährleistung oder Garantie. Die Nutzung erfolgt auf eigenes Risiko.
 
 Haftungsausschluss
 
@@ -10,6 +12,7 @@ Die Installation und Inbetriebnahme dürfen ausschließlich durch eine qualifizi
 Die Nutzung erfolgt vollständig auf eigene Gefahr und eigenes Risiko.
 
 
+----------------------------------------------
 Open-source, no warranty. Use at your own risk.
 
 Disclaimer
