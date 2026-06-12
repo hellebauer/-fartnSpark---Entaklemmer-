@@ -1,3 +1,9 @@
+# Fart 'N Spark - Entaklemmer ⚡
+
+** Eigenverbrauch Optimierung auf die billige Art **
+
+
+
 Ohmpilot fuer finanziell Minderbemittelte. Schaltet Last an (Shelly) wenn genug PV Ueberschuss vorhanden ist. Funktioniert mit Fronius. Mit Arduino IDE auf ESP32 platform flashen. Ein AP wird unter 192.168.4.1 aufgemacht (password 12345678) . Verbinden, Wifi Kofiguration, Fronius IP, und Shelly IP eintragen. Schaltwerte eintragen. Fertig.
 
 ----------------------------------------------
