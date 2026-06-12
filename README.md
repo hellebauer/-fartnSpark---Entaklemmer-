@@ -1,6 +1,6 @@
 # Fart 'N Spark - Entaklemmer ⚡
 
-** Eigenverbrauch Optimierung auf die billige Art **
+** PV Eigenverbrauch Optimierung auf die billige Art **
 
 
 
