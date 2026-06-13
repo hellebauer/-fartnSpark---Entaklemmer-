@@ -4,7 +4,7 @@
 
 
 
-Ohmpilot fuer finanziell Minderbemittelte. Schaltet bis zu 4 Lasten an (4xShelly) wenn genug PV Ueberschuss vorhanden ist. Funktioniert mit Fronius. Mit Arduino IDE auf ESP8266 (z.B. Wemos D1 mini) platform flashen. Ein AP (namens EK-xxxxx) wird unter 192.168.4.1 aufgemacht (password 12345678) . Verbinden, Wifi Kofiguration, Fronius IP, und Shelly IPs eintragen. Schaltwerte eintragen. Fertig.
+Ohmpilot fuer finanziell Minderbemittelte. Schaltet bis zu 4 Lasten an (4xShelly) wenn genug PV Ueberschuss vorhanden ist. Funktioniert mit Fronius, Shelly EM, SMA, Tasmota, Volkszähler, Kostal. Mit Arduino IDE auf ESP8266 (z.B. Wemos D1 mini) platform flashen. Ein AP (namens EK-xxxxx) wird unter 192.168.4.1 aufgemacht (password 12345678) . Verbinden, Wifi Kofiguration, Fronius IP, und Shelly IPs eintragen. Schaltwerte eintragen. Fertig.
 
 
 Flash the firmware via Webbrowser (no Arduino IDE needed)
